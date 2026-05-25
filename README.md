@@ -200,5 +200,4 @@ Metrics logged per model run:
 ## Author
 
 **Ziyad Shaikh**
-Integrated MSc Data Science — Goa Business School, Goa University
 [GitHub](https://github.com/ziyadshaikh-cook)
